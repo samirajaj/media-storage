@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MediaStorage.Abstractions/MediaStorage.Abstractions.csproj" />
+  <Project Path="MediaStorage.Cloudinary/MediaStorage.Cloudinary.csproj" />
+  <Project Path="MediaStorage.Tests/MediaStorage.Tests.csproj" />
+</Solution>
