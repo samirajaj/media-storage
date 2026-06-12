@@ -7,4 +7,6 @@ public class CloudinaryOptions
     public string ApiKey { get; set; } = string.Empty;
 
     public string ApiSecret { get; set; } = string.Empty;
+
+    public bool Secure { get; set; } = true;
 }
